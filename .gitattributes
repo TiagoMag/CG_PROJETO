@@ -1,2 +1,3 @@
 *.roff linguist-detectable=false
 *.patch linguist-detectable=false
+*.3d linguist-detectable=false
